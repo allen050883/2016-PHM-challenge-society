@@ -36,5 +36,8 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
   
 ##  The competition training data and the test data is available here!  
 [link](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/2016%20PHM%20DATA%20CHALLENGE%20CMP%20DATA%20SET.zip&nid=2152)  
+  
+## New! Validation and Test Set Answers
+[link](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/PHM16TestValidationAnswers.zip&nid=2152)  
 
 

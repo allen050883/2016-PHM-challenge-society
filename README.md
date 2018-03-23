@@ -42,11 +42,11 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
   
   
 # Result we do
-| Data | method | Test (MSE) |
-| :---         |     :---:      |          ---: |
-| Training data 120u| xgboost+glmnet+CNN| 3.163 |
-| Training data 120d| xgboost+CNN| 9.347|
-| All data| | 8.217|
+| Data              | method            | Test (MSE) |
+| :---              | :---:             |       ---: |
+| Training data 120u| xgboost+glmnet+CNN| 3.163      |
+| Training data 120d| xgboost+CNN       | 9.347      |
+| All data          |                   | 8.217      |
 
 
 

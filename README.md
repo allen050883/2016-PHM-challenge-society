@@ -48,5 +48,5 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
 | Training data 120d| xgboost+CNN       | 9.347      |
 | All data          |                   | 8.217      |  
   
-However, the result in submission_final.csv is 7.06. (MSE) 
+However, the result in 'submission_final.csv' is 7.06. (MSE) 
 

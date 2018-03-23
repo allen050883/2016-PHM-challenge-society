@@ -39,5 +39,13 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
   
 ## New! Validation and Test Set Answers
 [See Attached](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/PHM16TestValidationAnswers.zip&nid=2152)  
+  
+  
+# Result we do
+| Data | method | Test (MSE) |
+| :---         |     :---:      |          ---: |
+| Training data 120u| xgboost+glmnet+CNN| 3.163 |
+| Training data 120d| xgboost+CNN| 9.347| 
+
 
 

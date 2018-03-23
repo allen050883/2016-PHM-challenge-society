@@ -34,7 +34,7 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
   
 ***Training data is given in a collection of files “CMP-training-ddd.csv” representing instances for all 25 columns (x1,…,x25) described in Table 1, plus a removal rate file “CMP-training-removalrate.csv” described in Table 2. Test data is given in a collection of files “CMP-test-ddd.csv” representing the 25 variables (x1,…,x25). Participants need to predict the missing values of the AVG_REMOVAL_RATE (y) for each wafer identifier and stage. A correct submission will be given by a zip archive [.zip] containing the predicted removal rate file, in the same two column format that was given for the training data, with the WAFER_ID, the STAGE, and the AVG_REMOVAL_RATE (x4, x5, and y) representing the prediction of average AVG_REMOVAL_RATE (y) for each WAFER_ID (x4) and STAGE (x5) in the test data. The submission file name should be the team alias, e.g. “team_alias.zip” and it should contain “CMP-test-removalrate.csv”.***  
   
-##The competition training data and the test data is available here!  
-![alt](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/2016%20PHM%20DATA%20CHALLENGE%20CMP%20DATA%20SET.zip&nid=2152)  
+##  The competition training data and the test data is available here!  
+[The competition training data and the test data is available here! ](https://www.phmsociety.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://www.phmsociety.org/sites/phmsociety.org/files/2016%20PHM%20DATA%20CHALLENGE%20CMP%20DATA%20SET.zip&nid=2152)  
 
 

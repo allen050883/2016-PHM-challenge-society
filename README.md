@@ -4,6 +4,7 @@ The competition is on the data science lesson in NCTU, 2017.
 Competition website: https://www.phmsociety.org/events/conference/phm/16/data-challenge  
 ***  
     
+##### System and Data Description
 ***This year’s challenge is focused on the combination of physics-based modeling and statistical approaches for prediction. It is not required that the solution you select use a physics-based modeling approach. However, additional points will be given to those approaches that provide some physical connection to the data such as health states of various components, relationship between data and model parameters / states, etc.***  
   
 ***The system under investigation is a wafer Chemical-Mechanical Planarization (CMP) tool that removes material from the surface of the wafer through a polishing process. Figure 1 depicts the CMP process components and operation. The CMP tool is composed of the following components:***   
@@ -19,7 +20,7 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
   
 ***During the polishing process, the polishing pad’s ability to remove material is diminished. Over time, the polishing pad has to be replaced with a new pad. Similarly, the dresser’s capability to roughen the polishing pads is also reduced after successive conditioning operations and after a while the dresser must be replaced.***  
   
-# Objective  
+##### Objective  
 The primary objective of this challenge is to predict polishing removal rate of material from a wafer using physics-based modeling methods and the data provided. The condition of the polishing pad and dresser change over time as they are being used. If these states can be estimated, then polishing time estimates can possibly be improved.
 
 Data Description

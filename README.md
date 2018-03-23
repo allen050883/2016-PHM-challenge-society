@@ -1,6 +1,7 @@
 ## 2016 PHM challenge society  
 
 The competition is on the data science lesson in NCTU, 2017.  
+'AVG_REMOVAL_RATE' is the label what we want to predict. 
 Competition website: https://www.phmsociety.org/events/conference/phm/16/data-challenge  
 ***  
     
@@ -26,6 +27,6 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
 ### Data Description
 ***Training and test data sets are provided to you to establish your methods. The training data represents data collected during various runs of the CMP tool for specified wafers over time. Data is given in the Table 1 format described below. Each row of the data represents an instance of all measurement variables at any given time. An average rate of material removal from a wafer is given separately in Table 2, which has a corresponding wafer identification number and stage. The average rate of removal was determined from measurements of the thickness of the material before and after CMP polishing.***  
   
-The 'rotational speed' is the label what we want to predict.  
+ 
 
 

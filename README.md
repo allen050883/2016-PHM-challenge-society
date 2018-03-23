@@ -1,7 +1,7 @@
 ## 2016 PHM challenge society  
 
 The competition is on the data science lesson in NCTU, 2017.  
-'AVG_REMOVAL_RATE' is the label what we want to predict. 
+'AVG_REMOVAL_RATE' is the label what we want to predict.   
 Competition website: https://www.phmsociety.org/events/conference/phm/16/data-challenge  
 ***  
     

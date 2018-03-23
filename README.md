@@ -27,6 +27,9 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
 ### Data Description
 ***Training and test data sets are provided to you to establish your methods. The training data represents data collected during various runs of the CMP tool for specified wafers over time. Data is given in the Table 1 format described below. Each row of the data represents an instance of all measurement variables at any given time. An average rate of material removal from a wafer is given separately in Table 2, which has a corresponding wafer identification number and stage. The average rate of removal was determined from measurements of the thickness of the material before and after CMP polishing.***  
   
- 
+***Table 1: Time Series Data Description***  
+![alt](https://www.phmsociety.org/sites/phmsociety.org/files/Table1PHM16DataChallenge.png)  
+***Table 2: Average Material Removal Rates***
+![alt](https://www.phmsociety.org/sites/phmsociety.org/files/Table2PHM16DataChallenge.png)
 
 

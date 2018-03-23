@@ -13,6 +13,7 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
 >a slurry dispenser  
 >a translating and rotating dresser used to condition a polishing pad.  
 ![alt](https://www.phmsociety.org/sites/phmsociety.org/files/Fig1PHM16DataChallenge.png)  
+  
 The 'rotational speed' is the label what we want to predict.  
 
 

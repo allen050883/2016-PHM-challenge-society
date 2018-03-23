@@ -12,9 +12,8 @@ Competition website: https://www.phmsociety.org/events/conference/phm/16/data-ch
 >a translating and rotating wafer carrier used to hold the wafer  
 >a slurry dispenser  
 >a translating and rotating dresser used to condition a polishing pad.  
-  
 ![alt](https://www.phmsociety.org/sites/phmsociety.org/files/Fig1PHM16DataChallenge.png)  
-***Figure 1: Chemical Mechanical Planarization (Polishing) of wafer. This process removes material from wafer surface.
+***Figure 1: Chemical Mechanical Planarization (Polishing) of wafer. This process removes material from wafer surface.***
   
  
 The 'rotational speed' is the label what we want to predict.  
